@@ -440,7 +440,7 @@ a {
 }
 
 .large-hero {
-  border-bottom: 10px solid #2f5572;
+  border-bottom: 10px solid #e8e8e8;
   position: relative;
 
 }
@@ -468,7 +468,7 @@ a {
 
 .large-hero__title {
   font-weight: 300;
-  color: #2f5572;
+  color: #e8e8e8;
   margin: 0;
   font-size: 2.4rem;
 }
@@ -482,7 +482,7 @@ a {
 
 .large-hero__subtitle {
   font-weight: 300;
-  color: #2f5572;
+  color: #e8e8e8;
   font-size: 1.5rem;
   margin: 0;
 }
@@ -512,7 +512,7 @@ a {
 }
 
 .btn {
-  background-color: #2f5572;
+  background-color: #e8e8e8;
   color: #FFF;
   text-decoration: none;
   padding: .75rem 1.2rem;
@@ -539,10 +539,9 @@ a {
   overflow: hidden;
   padding-left: 18px;
   padding-right: 18px;
-  max-width: 1236px;
+  max-width: 1437px;
   margin-left: auto;
   margin-right: auto;
-
 }
 
 .wrapper--medium {
@@ -630,7 +629,7 @@ a {
 }
 
 .page-section--blue {
-  background-color: #2f5572;
+  background-color: #e8e8e8;
   color: #FFF;
 }
 
@@ -649,7 +648,7 @@ a {
 .headline {
   font-size: 1.9rem;
   font-weight: 300;
-  color: #2f5572;
+  color: #e8e8e8;
 }
 
 @media (min-width: 530px) {
@@ -836,6 +835,7 @@ a {
   font-weight: 300;
   line-height: 1.65;
   margin: 0 0 1.8rem 0;
+  color: #000000;
 }
 
 @media (min-width: 530px) {
@@ -853,6 +853,7 @@ a {
   font-size: 2.55rem;
   font-weight: 300;
   text-align: center;
+  color: #e7ac3f;
 
 }
 
@@ -868,7 +869,7 @@ a {
 }
 
 .section-title--blue {
-  color: #2f5572;
+  color: #e8e8e8;
 }
 
 .section-title--less-margin {
@@ -924,6 +925,7 @@ a {
   font-size: 1.6rem;
   font-weight: 300;
   margin-top: .7em;
+  color: #e7ac3f;
   margin-bottom: .8rem;
   text-align: center;
 }
@@ -941,99 +943,147 @@ a {
 Instead edit gulp/templates/sprite */
 
 .icon {
-      background-image: url('../../assets/images/sprites/sprite-6dfcc365.svg');
+      background-image: url('../../assets/images/sprites/sprite-2db855b2.svg');
     }
 
 .no-svg .icon {
-      background-image: url('../../assets/images/sprites/sprite-6dfcc365.png');
+      background-image: url('../../assets/images/sprites/sprite-2db855b2.png');
     }
 
 .icon--Cramaze_icon {
     width: 112.67px;
     height: 127.33px;
-    background-position: 92.75988567056017% 17.496516620695537%;
+    background-position: 0 71.02836722989368%;
   }
 
 .icon--clear-view-escapes {
     width: 144.4px;
     height: 61.53px;
-    background-position: 99.89335918565196% 0;
+    background-position: 53.596614950634695% 0;
   }
 
 .icon--comment {
     width: 66px;
     height: 66px;
-    background-position: 83.94297352342159% 77.69007263922518%;
+    background-position: 41.988950276243095% 21.364583333333332%;
+  }
+
+.icon--construction-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 35.81267217630854% 99.7681660899654%;
+  }
+
+.icon--cramaze-minds-logo {
+    width: 152px;
+    height: 161px;
+    background-position: 0 0;
+  }
+
+.icon--data_recovery-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 81.65289256198346% 45.674740484429066%;
+  }
+
+.icon--digi_market-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 81.65289256198346% 68.16608996539793%;
+  }
+
+.icon--digital_card-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 17.90633608815427% 99.7681660899654%;
   }
 
 .icon--facebook {
     width: 23.23px;
     height: 44.01px;
-    background-position: 98.32512130692997% 14.145152762132463%;
+    background-position: 89.53232700051882% 49.37901222620084%;
   }
 
 .icon--fire {
     width: 58px;
     height: 66px;
-    background-position: 95.02204408817636% 45.728813559322035%;
+    background-position: 30.451351351351352% 55.90277777777778%;
   }
 
 .icon--globe {
     width: 66px;
     height: 66px;
-    background-position: 83.94297352342159% 61.70944309927361%;
+    background-position: 47.146408839779006% 55.90277777777778%;
+  }
+
+.icon--hr-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 71.62534435261708% 99.7681660899654%;
   }
 
 .icon--instagram {
     width: 44.01px;
     height: 44.01px;
-    background-position: 23.349383028908946% 94.7516034851376%;
+    background-position: 94.37745774629548% 35.18178005742121%;
   }
 
 .icon--mail {
     width: 66px;
     height: 50px;
-    background-position: 97.38492871690428% 59.40792540792541%;
+    background-position: 31.124309392265193% 74.67105263157895%;
   }
 
 .icon--rain {
     width: 66px;
     height: 66px;
-    background-position: 97.38492871690428% 77.69007263922518%;
+    background-position: 81.87845303867402% 0;
+  }
+
+.icon--smart-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 53.71900826446281% 99.7681660899654%;
   }
 
 .icon--star {
     width: 66px;
     height: 66px;
-    background-position: 0 99.79661016949153%;
+    background-position: 81.87845303867402% 22.916666666666668%;
   }
 
 .icon--twitter {
     width: 53.78px;
     height: 44.06px;
-    background-position: 13.115535948491713% 94.76249597645652%;
+    background-position: 96.8414301747635% 20.971800993740725%;
   }
 
-.icon--twitter_Color {
-    width: 412.16px;
-    height: 412.16px;
-    background-position: 0 0;
+.icon--videom-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 99.83471074380165% 0;
+  }
+
+.icon--web-icon {
+    width: 65px;
+    height: 65px;
+    background-position: 0 99.7681660899654%;
   }
 
 .icon--wifi {
     width: 62px;
     height: 66px;
-    background-position: 83.26464646464646% 45.728813559322035%;
+    background-position: 59.56284153005465% 21.364583333333332%;
   }
 
 .icon--youtube {
     width: 36.75px;
     height: 44px;
-    background-position: 31.482940893801057% 94.74942528735632%;
+    background-position: 98.56357827476039% 49.37741935483871%;
   }
 
 .site-footer {
-  background-color: #2f5572;
+  background-color: #e8e8e8;
   color: #FFF;
   padding: .5rem 0;
   text-align: center;
@@ -1063,14 +1113,14 @@ Instead edit gulp/templates/sprite */
 }
 
 .site-header--is-expanded {
-  background-color: rgba(47,85,114, .55);
+  background-color: rgba(232,232,232, .55);
 }
 
 @media (min-width: 800px) {
 
   .site-header {
     position: fixed;
-    background-color: rgba(47,85,114, .3);
+    background-color: rgba(232,232,232, .3);
   }
 
   .site-header--dark {
@@ -1092,9 +1142,10 @@ Instead edit gulp/templates/sprite */
   transform: translateX(-50%) scale(.8);
   transition: transform .3s ease-out;
   transform-origin: 50% 0;
-  background-color: #2f5572;
-  padding: 25px 36px;
+  background-color: #e8e8e8;
 }
+
+/* padding: 25px 36px; */
 
 @media (min-width: 800px) {
 
@@ -1264,7 +1315,7 @@ Instead edit gulp/templates/sprite */
   display: block;
   padding: 5px 8px;
   font-size: .8rem;
-  background-color: rgba(47,85,114, .5);
+  background-color: rgba(232,232,232, .5);
 }
 
 @media (min-width: 800px) {
@@ -1332,7 +1383,7 @@ Instead edit gulp/templates/sprite */
   font-size: 2rem;
   transform: scaleX(1.2);
   transform-origin: 100% 0;
-  color: #2f5572;
+  color: #e8e8e8;
   cursor: pointer;
 }
 
