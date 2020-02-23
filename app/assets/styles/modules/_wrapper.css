@@ -10,6 +10,10 @@
     max-width: 976px;
   }
 
+  &--header
+  {
+    max-height: 110px;
+  }
   &--narrow {
     max-width: 470px;
   }
